@@ -6,7 +6,7 @@ library(zoo)
 ## CREATE DATA FRAME. 
 
 # Set working directory for locating files.
-setwd("/Users/sahithipriya/Downloads")
+setwd("/Users/venkateshvuyyala/Downloads")
 
 # Create data frame.
 wholesaletrade.data <- read.csv("motorvehicles.csv")
